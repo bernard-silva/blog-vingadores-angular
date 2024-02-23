@@ -1,0 +1,22 @@
+.container__footer-bar > ul{
+  display: flex;
+  flex-direction: row;
+}
+  
+.container__footer-bar > ul > li{
+  margin-right: 20px;
+  list-style: none;
+}
+  
+.container__footer-bar i {
+  font-size: 25px;
+}
+
+.container__footer-bar li + li {
+  margin-left: 20px;
+}
+
+p {
+  margin-top: 10px;
+  margin-left: 15px;
+}

@@ -1,0 +1,11 @@
+header {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+}
